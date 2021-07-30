@@ -8,7 +8,8 @@
 3-responsive Design(mobile friendly).
 4-Material UI (icons).
 5- React Context API (state management).
-6-React & Hooks.
+6-React Hooks(useeffect).
+7-React Context Api(state management).
 7-firebase tools.
 
  
