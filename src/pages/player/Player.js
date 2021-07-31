@@ -9,11 +9,8 @@ function Player({ spotify }) {
     <div className="player">
       <div className="player__body">
         <Sidebar/>
-        {/* sidebar */}
-        {/* body */}
         <Body/>
       </div>
-      {/* footer */}
       <Footer/>
     </div>
   );

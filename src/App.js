@@ -36,6 +36,12 @@ const [{user, token}, dispatch]= useDataLayerValue();
             user:user,
           })
         });
+        spotify.getUserPlaylists().then((playlists)=>{
+          dispatch({
+            type:"SET_PLAYLISTS",
+            playlists:playlists,
+          })
+        })
       }
 
       
