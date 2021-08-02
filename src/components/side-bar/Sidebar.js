@@ -6,7 +6,7 @@ import PlayCircleFilledIcon from '@material-ui/icons/PlayCircleFilled';
 import HomeIcon from '@material-ui/icons/Home';
 import LibraryMusicIcon from '@material-ui/icons/LibraryMusic';
 import SearchIcon from '@material-ui/icons/Search';
-import { useDataLayerValue } from '../../datalayers/DataLayer';
+import { useDataLayerValue } from '../../stateProvider/DataLayer';
  
 
 function Sidebar() {

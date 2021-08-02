@@ -5,7 +5,7 @@ import Login from './pages/login/Login';
 import { getTokenFromUrl } from './spotify';
 import SpotifyWebApi from "spotify-web-api-js";
 import Player from './pages/player/Player';
-import { useDataLayerValue } from './datalayers/DataLayer';
+import { useDataLayerValue } from './stateProvider/DataLayer';
 
 
 
