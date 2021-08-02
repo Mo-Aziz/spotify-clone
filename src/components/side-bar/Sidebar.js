@@ -1,8 +1,6 @@
 import React from 'react';
 import SidebarOption from '../sidebarOptions/SidebarOption';
 import "./Sidebar.css";
-import FavoriteIcon from '@material-ui/icons/Favorite';
-import PlayCircleFilledIcon from '@material-ui/icons/PlayCircleFilled';
 import HomeIcon from '@material-ui/icons/Home';
 import LibraryMusicIcon from '@material-ui/icons/LibraryMusic';
 import SearchIcon from '@material-ui/icons/Search';

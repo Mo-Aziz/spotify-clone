@@ -17,6 +17,7 @@
 .header__left> input{
   border:none;
   width: 100%;
+  outline:none;
 }
 
 
@@ -27,4 +28,9 @@
 
 .header__right >h4{
   margin-left: 10px;
+}
+
+.header__right .MuiAvatar-root{
+  width: 90px;
+  height: 90px;
 }
